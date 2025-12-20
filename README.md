@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishore K V</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A developer from India</h3>
 
 - 📫 How to reach me **kv.kishorevijay@gmail.com**
 
