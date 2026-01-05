@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kishore K V</h1>
-<h3 align="center">A developer from India</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+<p align="left">My Name is Kishore K V, from Chennai Institute of Technology</p>
+
+<h2 align="left">About me</h2>
+
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Cybersecurity<br>🎯 Goals: to explore the world of Cyberspace<br>🎲 Fun fact: Doing some projects</p>
 
 - 📫 How to reach me **kv.kishorevijay@gmail.com**
 
