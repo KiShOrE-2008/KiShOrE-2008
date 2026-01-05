@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="left">My Name is Kishore K V, from Chennai Institute of Technology</p>
 
