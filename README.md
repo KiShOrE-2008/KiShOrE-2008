@@ -70,20 +70,6 @@ I am a passionate **B.Tech Information Technology student** with a deep interest
 
 ---
 
-### 📌 Featured Projects
-
-Here are some of the projects I have been working on:
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🔒 Password Strength Checker** | A security tool that checks and analyzes password strength, entropy, and vulnerability indices. | Python |
-| **📊 Router Monitoring Dashboard** | A dashboard application to monitor router performance, connection logs, and network status. | React, Node.js, Python |
-| **🚮 Smart Waste Segregation System** | An IoT-based project utilizing Arduino to segregate waste automatically. | Arduino, C++ |
-| **🛡️ Cybersecurity Tools** | Custom tools built to assist with network reconnaissance, vulnerability scanning, and traffic analyses. | Python, Linux |
-| **📈 Traffic Analyzer** | A traffic visualization tool that extracts information from network packets to identify anomalies. | Python, Scapy |
-
----
-
 ### 📊 GitHub Statistics
 
 <p align="center">
