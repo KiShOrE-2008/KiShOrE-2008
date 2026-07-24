@@ -87,11 +87,11 @@ Here are some of the projects I have been working on:
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=KiShOrE-2008&show_icons=true&theme=tokyonight&count_private=true" alt="Kishore's GitHub stats" height="195px" />
+  <a href="https://github.com/stats-extended/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=KiShOrE-2008&show_icons=true&theme=tokyonight&count_private=true" alt="Kishore's GitHub stats" height="195px" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiShOrE-2008&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
+  <a href="https://github.com/stats-extended/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KiShOrE-2008&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
   </a>
 </p>
 
