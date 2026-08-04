@@ -74,10 +74,10 @@ I am a passionate **B.Tech Information Technology student** with a deep interest
 
 <p align="center">
   <a href="https://github.com/stats-extended/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=KiShOrE-2008&show_icons=true&theme=tokyonight&count_private=true" alt="Kishore's GitHub stats" height="195px" />
+    <img src="https://github-stats-extended.vercel.app/api?username=KiShOrE-2008&show_icons=true&theme=tokyonight&count_private=true" alt="Kishore's GitHub stats" width="49%" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=KiShOrE-2008&theme=tokyonight" alt="GitHub Streak Stats" height="195px" />
+    <img src="https://streak-stats.demolab.com/?user=KiShOrE-2008&theme=tokyonight" alt="GitHub Streak Stats" width="49%" />
   </a>
 </p>
 
