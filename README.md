@@ -71,27 +71,29 @@ I am a passionate **B.Tech Information Technology student** with a deep interest
 ---
 
 ### 📊 GitHub Statistics
-
-<p align="center">
+<div align="center">
+  <!-- Top Row: Stats and Languages -->
   <a href="https://github.com/stats-extended/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=KiShOrE-2008&show_icons=true&theme=tokyonight&count_private=true" alt="Kishore's GitHub stats" width="49%" />
+    <img src="https://github-stats-extended.vercel.app/api?username=KiShOrE-2008&show_icons=true&theme=tokyonight&count_private=true" alt="Kishore's GitHub stats" width="48%" />
   </a>
+  <a href="https://github.com/stats-extended/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KiShOrE-2008&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  </a>
+  
+  <br />
+
+  <!-- Middle Row: Streak -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=KiShOrE-2008&theme=tokyonight" alt="GitHub Streak Stats" width="49%" />
+    <img src="https://streak-stats.demolab.com/?user=KiShOrE-2008&theme=tokyonight" alt="GitHub Streak Stats" width="60%" />
   </a>
-</p>
+  
+  <br />
 
-<p align="center">
-  <a href="https://github.com/stats-extended/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KiShOrE-2008&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
-  </a>
-</p>
-
-<p align="center">
+  <!-- Bottom Row: Activity Graph -->
   <a href="https://github.com/ashutoshgjsr/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiShOrE-2008&theme=tokyo-night" alt="GitHub Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiShOrE-2008&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%" />
   </a>
-</p>
+</div>
 
 ---
 
