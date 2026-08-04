@@ -81,6 +81,18 @@ I am a passionate **B.Tech Information Technology student** with a deep interest
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=KiShOrE-2008&theme=tokyonight" alt="GitHub Streak Stats" height="195px" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ashutoshgjsr/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiShOrE-2008&theme=tokyo-night" alt="GitHub Contribution Graph" />
+  </a>
+</p>
+
 ---
 
 ### 🎯 Goals & Aspirations
