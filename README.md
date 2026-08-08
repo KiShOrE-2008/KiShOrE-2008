@@ -65,6 +65,7 @@ I am a passionate **B.Tech Information Technology student** with a deep interest
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
@@ -74,10 +75,10 @@ I am a passionate **B.Tech Information Technology student** with a deep interest
 <div align="center">
   <!-- Top Row: Stats and Languages -->
   <a href="https://github.com/stats-extended/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=KiShOrE-2008&show_icons=true&theme=tokyonight&count_private=true" alt="Kishore's GitHub stats" height="195px" />
+    <img src="https://github-stats-extended.vercel.app/api?username=KiShOrE-2008&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Kishore's GitHub stats" height="195px" />
   </a>
   <a href="https://github.com/stats-extended/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KiShOrE-2008&layout=compact&theme=tokyonight" alt="Top Languages" height="195px" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KiShOrE-2008&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" height="195px" />
   </a>
   
   <br />
