@@ -71,29 +71,35 @@ I am a passionate **B.Tech Information Technology student** with a deep interest
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Git Collaboration & Contribution Dashboard
+
 <div align="center">
-  <!-- Top Row: Stats and Languages -->
-  <a href="https://github.com/stats-extended/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=KiShOrE-2008&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Kishore's GitHub stats" height="195px" />
-  </a>
-  <a href="https://github.com/stats-extended/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KiShOrE-2008&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" height="195px" />
-  </a>
-  
-  <br />
-
-  <!-- Middle Row: Streak -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=KiShOrE-2008&theme=tokyonight&v=1" alt="GitHub Streak Stats" height="195px" />
-  </a>
-  
-  <br />
-
-  <!-- Bottom Row: Activity Graph -->
-  <a href="https://github.com/ashutoshgjsr/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiShOrE-2008&theme=tokyo-night" alt="GitHub Contribution Graph" width="100%" />
-  </a>
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/KiShOrE-2008">
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=KiShOrE-2008&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started&hide_border=true&border_radius=10" alt="GitHub & Collaboration Stats" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/KiShOrE-2008">
+          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KiShOrE-2008&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/KiShOrE-2008">
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KiShOrE-2008&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=10" alt="Top Languages" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/KiShOrE-2008">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiShOrE-2008&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
