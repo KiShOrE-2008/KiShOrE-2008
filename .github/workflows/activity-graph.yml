@@ -2,7 +2,6 @@ name: Generate Activity Graph
 
 on:
   schedule:
-    # Run every 24 hours
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
@@ -20,14 +19,118 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Activity Graph SVG
-        uses: Ashutosh00710/github-readme-activity-graph@main
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          username: KiShOrE-2008
-          theme: tokyo-night
-          area: true
-          hide_border: true
-          output_file: dist/activity-graph.svg
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate Activity Graph SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: KiShOrE-2008
+        run: |
+          mkdir -p dist
+          python3 << 'EOF'
+          import requests, os, json
+          from datetime import datetime, timezone
+
+          username = os.environ["GITHUB_USERNAME"]
+          token    = os.environ["GITHUB_TOKEN"]
+
+          query = """
+          query($username: String!) {
+            user(login: $username) {
+              contributionsCollection {
+                contributionCalendar {
+                  weeks {
+                    contributionDays {
+                      date
+                      contributionCount
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          resp = requests.post(
+            "https://api.github.com/graphql",
+            json={"query": query, "variables": {"username": username}},
+            headers={"Authorization": f"Bearer {token}"},
+          )
+          data = resp.json()
+          weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+
+          # Flatten all days
+          days = []
+          for week in weeks:
+            for d in week["contributionDays"]:
+              days.append(d)
+
+          max_count = max((d["contributionCount"] for d in days), default=1) or 1
+
+          def color(count):
+            if count == 0:    return "#1a1b27"
+            ratio = count / max_count
+            if ratio < 0.25:  return "#0e4429"
+            if ratio < 0.50:  return "#006d32"
+            if ratio < 0.75:  return "#26a641"
+            return "#39d353"
+
+          CELL = 11
+          GAP  = 2
+          STEP = CELL + GAP
+          LABEL_H = 20
+          MARGIN_L = 30
+
+          num_weeks = len(weeks)
+          width  = MARGIN_L + num_weeks * STEP + 20
+          height = LABEL_H + 7 * STEP + 20
+
+          # Month labels
+          months = []
+          for wi, week in enumerate(weeks):
+            first_day = week["contributionDays"][0]["date"]
+            dt = datetime.strptime(first_day, "%Y-%m-%d")
+            if wi == 0 or dt.day <= 7:
+              months.append((wi, dt.strftime("%b")))
+
+          month_labels = ""
+          for wi, name in months:
+            x = MARGIN_L + wi * STEP
+            month_labels += f'<text x="{x}" y="14" fill="#8b949e" font-size="10" font-family="Segoe UI,Ubuntu,sans-serif">{name}</text>\n'
+
+          day_labels = ""
+          for di, label in [(1, "Mon"), (3, "Wed"), (5, "Fri")]:
+            y = LABEL_H + di * STEP + CELL - 1
+            day_labels += f'<text x="0" y="{y}" fill="#8b949e" font-size="9" font-family="Segoe UI,Ubuntu,sans-serif">{label}</text>\n'
+
+          rects = ""
+          for wi, week in enumerate(weeks):
+            for di, day in enumerate(week["contributionDays"]):
+              x = MARGIN_L + wi * STEP
+              y = LABEL_H + di * STEP
+              c = day["contributionCount"]
+              fill = color(c)
+              title = f'{c} contributions on {day["date"]}'
+              rects += f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="2" fill="{fill}"><title>{title}</title></rect>\n'
+
+          svg = f"""<svg width="{width}" height="{height}" viewBox="0 0 {width} {height}" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100%" height="100%" fill="#1a1b27" rx="8"/>
+            {month_labels}
+            {day_labels}
+            {rects}
+          </svg>"""
+
+          with open("dist/activity-graph.svg", "w") as f:
+            f.write(svg)
+
+          print(f"Generated activity-graph.svg ({len(days)} days, {num_weeks} weeks)")
+          EOF
 
       - name: Push activity graph SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
