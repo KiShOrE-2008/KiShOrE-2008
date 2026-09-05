@@ -1,0 +1,39 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    # Run every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Activity Graph SVG
+        uses: Ashutosh00710/github-readme-activity-graph@main
+        with:
+          username: KiShOrE-2008
+          theme: tokyo-night
+          area: true
+          hide_border: true
+          output_file: dist/activity-graph.svg
+
+      - name: Push activity graph SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
