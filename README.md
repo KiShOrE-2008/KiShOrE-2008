@@ -95,7 +95,7 @@ I am a passionate **B.Tech Information Technology student** with a deep interest
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/KiShOrE-2008">
-          <img src="https://raw.githubusercontent.com/KiShOrE-2008/KiShOrE-2008/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Graph" width="100%" />
+          <img src="https://github-readme-activity-graph-nine.vercel.app/graph?username=KiShOrE-2008&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
         </a>
       </td>
     </tr>
@@ -108,6 +108,14 @@ I am a passionate **B.Tech Information Technology student** with a deep interest
 - 🛡️ Deep dive into **Ethical Hacking** and advanced vulnerability research.
 - 📦 Build open-source tools that solve real-world cybersecurity problems.
 - 🤝 Collaborate with developers and security researchers on complex projects.
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KiShOrE-2008/KiShOrE-2008/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+</p>
 
 <br>
 <p align="center">
