@@ -88,18 +88,19 @@ I am a passionate **B.Tech Information Technology student** with a deep interest
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
+      <td colspan="2" align="center">
         <a href="https://github.com/KiShOrE-2008">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KiShOrE-2008&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=10" alt="Top Languages" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/KiShOrE-2008">
-          <img src="https://raw.githubusercontent.com/KiShOrE-2008/KiShOrE-2008/output/activity-graph.svg" alt="Activity Graph" width="100%" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KiShOrE-2008&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=10" alt="Top Languages" />
         </a>
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <a href="https://github.com/KiShOrE-2008">
+    <img src="https://raw.githubusercontent.com/KiShOrE-2008/KiShOrE-2008/output/activity-graph.svg" alt="Activity Graph" width="100%" />
+  </a>
 </div>
 
 ---
