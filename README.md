@@ -1,125 +1,129 @@
-# Hi there, I'm Kishore K V 👋
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=450&lines=B.Tech+Information+Technology;Cybersecurity+%26+Networking;Python+%26+Full-Stack+Developer;Ethical+Hacking+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00D2FF&height=220&section=header&text=Kishore%20K%20V&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Networking%20%E2%80%A2%20Full-Stack%20Development&descSize=18&descAlignY=58&animation=fadeIn" alt="Kishore K V" width="100%" />
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/kishore-k-v-090491349" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kv.kishorevijay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-### 💫 About Me
-
-I am a passionate **B.Tech Information Technology student** with a deep interest in technology, cybersecurity, networking, and software development. I enjoy building utility tools, exploring networking environments, and diving into cybersecurity research.
-
-- 🎓 Currently pursuing a **B.Tech in Information Technology**
-- 🛡️ Passionate about **Cybersecurity**, **Ethical Hacking**, and **Security Research**
-- 🌐 Exploring **Networking** and **Traffic Analysis**
-- 💻 Actively developing projects using **Python**, **Java**, and **Web Technologies**
-- 🚀 Always keen to learn, build, and improve my skillset
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 🚀 Languages & Web Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-</p>
-
-#### 💾 Databases, Cloud & Hosting
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-#### 🎨 Creative Design & Modeling
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Adobe CC" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Lightroom" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-</p>
-
-#### ⚙️ OS, Hardware & Version Control
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-</p>
-
----
-
-### 📊 Git Collaboration & Contribution Dashboard
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/KiShOrE-2008">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=KiShOrE-2008&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started&hide_border=true&border_radius=10" alt="GitHub & Collaboration Stats" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/KiShOrE-2008">
-          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KiShOrE-2008&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/KiShOrE-2008">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KiShOrE-2008&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=10" alt="Top Languages" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/KiShOrE-2008">
-          <img src="https://github-readme-activity-graph-eight.vercel.app/graph?username=KiShOrE-2008&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🎯 Goals & Aspirations
-- 🛡️ Deep dive into **Ethical Hacking** and advanced vulnerability research.
-- 📦 Build open-source tools that solve real-world cybersecurity problems.
-- 🤝 Collaborate with developers and security researchers on complex projects.
-
----
-
-### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KiShOrE-2008/KiShOrE-2008/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=520&lines=%24+whoami+%E2%86%92+Kishore+K+V;B.Tech+Information+Technology+%40+CIT;Cybersecurity+%26+Network+Analysis;Python+%26+Full-Stack+Developer;Ethical+Hacking+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://kishore-kv-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=00D2FF" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/kishore-k-v-090491349"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kv.kishorevijay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=KiShOrE-2008&color=00D2FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <br>
+
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I'm a **B.Tech Information Technology student** at **Chennai Institute of Technology** who loves breaking things to understand how they work — and then building better ones.
+
+- 🛡️ Into **cybersecurity**, **ethical hacking** and security research
+- 🌐 Exploring **networking**, NOC tooling and **traffic analysis**
+- 🔎 Building **forensic & intelligence** platforms
+- 💻 Shipping projects in **Python**, **Java**, **TypeScript** and the web stack
+- 🐧 Daily driver: **Kali Linux**
+- 📍 Chennai, Tamil Nadu, India
+
+</td>
+<td width="42%" valign="top">
+
+```python
+class Kishore:
+    role     = "IT Student @ CIT"
+    location = "Chennai, India"
+    focus    = ["Cybersecurity",
+                "Networking",
+                "Full-Stack Dev"]
+    os       = "Kali Linux"
+    learning = ["Vulnerability Research",
+                "Network Forensics"]
+
+    def motto(self):
+        return "Learn. Build. Secure."
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="170"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,bash&perline=8" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,express,django&perline=8" alt="Frameworks" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,gcp,cloudflare,vercel&perline=8" alt="Databases and Cloud" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Security & Systems</b></td>
+    <td><img src="https://skillicons.dev/icons?i=kali,linux,git,github,arduino&perline=8" alt="Security and Systems" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Design & 3D</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ps,figma,blender&perline=8" alt="Design" />&nbsp;
+      <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white" alt="Lightroom" />
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+    </td>
+  </tr>
+</table>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## 🚀 Featured Projects
+
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=KiShOrE-2008&color=00D2FF&style=flat-square" alt="Visitor Count" />
-  </a>
+  <a href="https://github.com/KiShOrE-2008/Tracex"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=KiShOrE-2008&repo=Tracex&theme=tokyonight&hide_border=true&border_radius=10" alt="Tracex" width="49%" /></a>
+  <a href="https://github.com/KiShOrE-2008/Netguard-NOC"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=KiShOrE-2008&repo=Netguard-NOC&theme=tokyonight&hide_border=true&border_radius=10" alt="Netguard-NOC" width="49%" /></a>
+  <a href="https://github.com/KiShOrE-2008/GitQuest"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=KiShOrE-2008&repo=GitQuest&theme=tokyonight&hide_border=true&border_radius=10" alt="GitQuest" width="49%" /></a>
+  <a href="https://github.com/KiShOrE-2008/Password_Checker"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=KiShOrE-2008&repo=Password_Checker&theme=tokyonight&hide_border=true&border_radius=10" alt="Password Checker" width="49%" /></a>
+  <a href="https://github.com/KiShOrE-2008/Netscope"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=KiShOrE-2008&repo=Netscope&theme=tokyonight&hide_border=true&border_radius=10" alt="Netscope" width="49%" /></a>
+  <a href="https://github.com/KiShOrE-2008/Portfolio"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=KiShOrE-2008&repo=Portfolio&theme=tokyonight&hide_border=true&border_radius=10" alt="Portfolio" width="49%" /></a>
+</p>
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KiShOrE-2008&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=10" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KiShOrE-2008&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=10" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KiShOrE-2008&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph-eight.vercel.app/graph?username=KiShOrE-2008&theme=tokyo-night&area=true&hide_border=true&radius=10" alt="Activity Graph" width="100%" />
+</p>
+
+<!-- ═══════════════════════════ GOALS ═══════════════════════════ -->
+## 🎯 Currently Working Towards
+
+- 🛡️ Going deeper into **ethical hacking** and vulnerability research
+- 📦 Building open-source tools for real-world security problems
+- 🤝 Collaborating with developers and security researchers
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KiShOrE-2008/KiShOrE-2008/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%" />
 </p>
