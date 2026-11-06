@@ -88,11 +88,21 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Telemetry
 
 <p align="center">
-  <img src="assets/stats/activity.svg" width="48%" alt="GitHub Activity" />
-  <img src="assets/stats/languages.svg" width="48%" alt="Most Used Languages" />
+  <a href="https://github.com/KiShOrE-2008">
+    <img src="https://github-readme-stats.vercel.app/api?username=KiShOrE-2008&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="Kishore's GitHub Stats" />
+  </a>
+  <a href="https://github.com/KiShOrE-2008">
+    <img src="https://streak-stats.demolab.com/?user=KiShOrE-2008&theme=tokyonight" alt="Kishore's GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KiShOrE-2008">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiShOrE-2008&theme=tokyo-night&area=true" width="100%" alt="Kishore's Contribution Graph" />
+  </a>
 </p>
 
 ---
