@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Sep 2025 – Aug 2029\nB.Tech Information Technology\nChennai Institute of Technology\nCGPA 7.4/10",
+    "prev": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "d92ed1b493dfb562dc46cebe881a5ae307caae73d7ead981f48c8198a13bb462"
+  },
+  {
+    "text": "Jan 2026 – Mar 2026\nEthical Hacking Intern\nEduSkills Academy (AICTE Virtual Internship), remote\nPerformed basic vulnerability assessment and web application penetration testing using Kali Linux and security testing tools.\nStudied social engineering, malware analysis, network security and common web application vulnerabilities.\nCompleted a 10-week program and a cybersecurity capstone project.",
+    "prev": "d92ed1b493dfb562dc46cebe881a5ae307caae73d7ead981f48c8198a13bb462",
+    "hash": "9967c9c4750f2e9049178d686a994bf930903165ef553d86a35d7cbe03dcc1b8"
+  },
+  {
+    "text": "Jun 2026\nCyber Security Intern\nAmroha Police Cyber Security Internship Program (APCSIP-2026), Moradabad\nStudied OSINT, digital and mobile forensics, Android malware, threat intelligence, MITRE ATT&CK and cyber law in sessions led by law-enforcement and industry experts.\nGained exposure to forensic tools including FTK, Oxygen Forensics, Magnet Axiom and Belkasoft.\nExamined cybercrime cases involving UPI fraud, mule accounts and SIM-swap attacks.",
+    "prev": "9967c9c4750f2e9049178d686a994bf930903165ef553d86a35d7cbe03dcc1b8",
+    "hash": "18b545e5d54131940a57e4a7771060bb800c23754863dbd8d899acb112c33421"
+  },
+  {
+    "text": "Jul 2026 – Sep 2026\nNetScope: network discovery and monitoring\nJava 21, Spring Boot, PostgreSQL, React, WebSockets, Docker\nBuilt a monitoring platform with ICMP and TCP subnet discovery, Nmap scanning, SNMP metrics, automated alerts and live WebSocket updates.\nDiscovered 22 devices on a /24 test network, with 20 online and 12 reporting SNMP data.\nContainerized the application with Docker and tested REST APIs with JUnit and Mockito.",
+    "prev": "18b545e5d54131940a57e4a7771060bb800c23754863dbd8d899acb112c33421",
+    "hash": "e3d35e0120fdc2885aa93177d60db51da4877dc5010a39ba3ff8d26f911fddf5"
+  },
+  {
+    "text": "Aug 2026\nTracex: digital forensics workspace (hackathon, team of 3)\nReact, TypeScript, Leaflet\nBuilt a prototype that links suspects, phone numbers, accounts and locations using entity graphs, geospatial mapping and timelines.\nAdded SHA-256 evidence hashing and a hash-chained audit log to support chain of custody.",
+    "prev": "e3d35e0120fdc2885aa93177d60db51da4877dc5010a39ba3ff8d26f911fddf5",
+    "hash": "630fbc9473964f29bb3ed216b4c58758d7cfd4ce6664ec0d84baca38fee43675"
+  },
+  {
+    "text": "Sep 2026 – Oct 2026\niDAM: parking marketplace (web and Android)\nReact, TypeScript, Capacitor, Supabase, PostgreSQL, Razorpay\nBuilt a two-sided parking marketplace with map search, time-slot booking, online payments and QR passes, shipped as a website and an Android app from one React codebase.\nSecured bookings, payments and payouts with row-level security and server-side functions, giving clients no write access to those tables.\nImplemented owner payouts through Razorpay Route, held for 24 hours after each booking ends.",
+    "prev": "630fbc9473964f29bb3ed216b4c58758d7cfd4ce6664ec0d84baca38fee43675",
+    "hash": "74e6586da694d566ff5a27125f3974be9425fa815619b6181b9fa2da0e8ddde9"
+  }
+]
