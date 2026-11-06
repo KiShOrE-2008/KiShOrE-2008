@@ -240,7 +240,8 @@ def main():
     (ASSETS / "hero.svg").write_text(hero())
     (ASSETS / "chain.svg").write_text(chain_svg(chain))
     (ROOT / "chain.json").write_text(json.dumps(chain, indent=2, ensure_ascii=False) + "\n")
-    (ROOT / "README.md").write_text(readme(chain))
+    # Legacy generator commented out to preserve the redesigned README.md:
+    # (ROOT / "README.md").write_text(readme(chain))
 
 
 if __name__ == "__main__":

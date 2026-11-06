@@ -17,7 +17,7 @@ from theme import ASSETS, EDGE, FAINT, INK, MANILA, RED, esc, svg, tag
 
 USER = "KiShOrE-2008"
 SKIP_REPOS = {USER}
-INKS = [INK, RED, "#1F7A6D", "#8A4FA3", "#6E4B12", "#5B6472"]
+INKS = ["#38bdf8", "#34d399", "#818cf8", "#f43f5e", "#fbbf24", "#94a3b8"]
 
 
 def fetch(url):

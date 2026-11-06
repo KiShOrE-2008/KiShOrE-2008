@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220" width="100%" height="220" role="img" aria-label="Kishore K V - Full-Stack Engineer and Cybersecurity Enthusiast">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0b1120" />
+    </linearGradient>
+    <linearGradient id="accent-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f8fafc" />
+      <stop offset="50%" stop-color="#e2e8f0" />
+      <stop offset="100%" stop-color="#cbd5e1" />
+    </linearGradient>
+    <linearGradient id="border-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#6366f1" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.5"/>
+    </linearGradient>
+    <pattern id="grid-pattern" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e293b" stroke-width="0.7" stroke-opacity="0.5"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, Menlo, Monaco, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .title { font-weight: 800; font-size: 34px; letter-spacing: -0.5px; fill: url(#text-grad); }
+    .sub { font-weight: 500; font-size: 15px; fill: #94a3b8; }
+    .accent { fill: #38bdf8; font-weight: 600; }
+    .prompt { fill: #34d399; font-weight: 600; font-size: 13px; }
+    .path { fill: #64748b; font-size: 13px; }
+    .tag { font-size: 11.5px; fill: #cbd5e1; font-weight: 500; }
+    .badge-bg { fill: #1e293b; stroke: #334155; stroke-width: 1; }
+  </style>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="916" height="216" rx="14" fill="url(#bg-grad)" stroke="url(#border-glow)" stroke-width="1.5"/>
+  <rect x="3" y="3" width="914" height="214" rx="13" fill="url(#grid-pattern)"/>
+
+  <!-- Top Window Bar -->
+  <rect x="2" y="2" width="916" height="38" rx="14" fill="#0f172a" fill-opacity="0.8"/>
+  <rect x="2" y="38" width="916" height="1" fill="#1e293b"/>
+
+  <!-- Window Dots -->
+  <circle cx="28" cy="20" r="5.5" fill="#ef4444" opacity="0.9"/>
+  <circle cx="46" cy="20" r="5.5" fill="#f59e0b" opacity="0.9"/>
+  <circle cx="64" cy="20" r="5.5" fill="#10b981" opacity="0.9"/>
+
+  <!-- Terminal Path -->
+  <text x="92" y="24" class="mono path">kishore@portfolio:<tspan class="accent">~</tspan>$ whoami</text>
+
+  <!-- Live Status Pill -->
+  <g transform="translate(690, 10)">
+    <rect width="206" height="22" rx="11" fill="#064e3b" fill-opacity="0.6" stroke="#059669" stroke-width="0.8"/>
+    <circle cx="14" cy="11" r="3.5" fill="#34d399">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="25" y="15" class="sans" font-size="11" font-weight="600" fill="#a7f3d0">OPEN TO INTERNSHIPS</text>
+  </g>
+
+  <!-- Left Cyber Shield / Monogram -->
+  <g transform="translate(34, 62)">
+    <rect width="84" height="84" rx="18" fill="#1e293b" fill-opacity="0.8" stroke="#38bdf8" stroke-width="1.5" stroke-opacity="0.6"/>
+    <!-- Terminal icon / brackets -->
+    <path d="M 28 32 L 40 42 L 28 52" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 44 52 L 56 52" fill="none" stroke="#34d399" stroke-width="3" stroke-linecap="round"/>
+    <!-- Micro label -->
+    <text x="42" y="70" class="mono" font-size="10" font-weight="700" fill="#64748b" text-anchor="middle">KV-2008</text>
+  </g>
+
+  <!-- Main Headline Info -->
+  <g transform="translate(138, 70)">
+    <text x="0" y="28" class="sans title">Kishore K V</text>
+    <text x="0" y="52" class="sans sub">
+      <tspan fill="#38bdf8" font-weight="600">Full-Stack Engineer</tspan>
+      <tspan fill="#475569"> • </tspan>
+      <tspan fill="#e2e8f0">Cybersecurity &amp; Forensics</tspan>
+      <tspan fill="#475569"> • </tspan>
+      <tspan fill="#94a3b8">Network Systems</tspan>
+    </text>
+    <text x="0" y="74" class="sans" font-size="13" fill="#64748b">
+      B.Tech IT @ Chennai Institute of Technology &apos;29 • Crafting resilient, secure &amp; observable software
+    </text>
+  </g>
+
+  <!-- Bottom Tech Stack Pills -->
+  <g transform="translate(34, 166)">
+    <!-- Pill 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="136" height="28" rx="6" class="badge-bg"/>
+      <text x="68" y="18" class="mono tag" text-anchor="middle">Java • Spring Boot</text>
+    </g>
+    <!-- Pill 2 -->
+    <g transform="translate(144, 0)">
+      <rect width="144" height="28" rx="6" class="badge-bg"/>
+      <text x="72" y="18" class="mono tag" text-anchor="middle">React • TypeScript</text>
+    </g>
+    <!-- Pill 3 -->
+    <g transform="translate(296, 0)">
+      <rect width="160" height="28" rx="6" class="badge-bg"/>
+      <text x="80" y="18" class="mono tag" text-anchor="middle">Network Telemetry</text>
+    </g>
+    <!-- Pill 4 -->
+    <g transform="translate(464, 0)">
+      <rect width="170" height="28" rx="6" class="badge-bg"/>
+      <text x="85" y="18" class="mono tag" text-anchor="middle">Digital Forensics &amp; OSINT</text>
+    </g>
+    <!-- Pill 5 -->
+    <g transform="translate(642, 0)">
+      <rect width="154" height="28" rx="6" class="badge-bg"/>
+      <text x="77" y="18" class="mono tag" text-anchor="middle">PostgreSQL • Docker</text>
+    </g>
+    <!-- Pill 6 (Loc) -->
+    <g transform="translate(804, 0)">
+      <rect width="78" height="28" rx="6" class="badge-bg"/>
+      <text x="39" y="18" class="mono tag" fill="#38bdf8" text-anchor="middle">Chennai</text>
+    </g>
+  </g>
+</svg>
